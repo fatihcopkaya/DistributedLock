@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PaymentService.Controllers.PaymentTransactionController",
+    "Method": "YourControllerMethod",
+    "RelativePath": "api/PaymentTransaction/PaymentProccess",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentTransaction",
+        "Type": "PaymentService.Models.PaymentTransaction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
